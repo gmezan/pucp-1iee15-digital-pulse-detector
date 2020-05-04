@@ -31,7 +31,7 @@ The PCB was designed using Eagle
 
 ### PCB implementation
 Final implementation, using a LED display.
-C++ code for the atmega328p can be found on the Atmel Studio Project `ssd1306_atmega328`
+C++ code for the atmega328p can be found on the Atmel Studio Project `ssd1306_atmega328`.
 Video with the results: https://github.com/gmn14/PulseDetector/blob/master/video.MP4
 
 <img src="/Screen Shot 2020-05-04 at 12.28.10.png" width="500" height="350">
