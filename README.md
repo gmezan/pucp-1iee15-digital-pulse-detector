@@ -36,8 +36,6 @@ Video with the results: https://github.com/gmn14/PulseDetector/blob/master/video
 
 <img src="/Screen Shot 2020-05-04 at 12.28.10.png" width="500" height="350">
 
-### Video
-[![Watch the video](https://9to5mac.com/wp-content/uploads/sites/6/2017/08/youtube_logo_dark.jpg)](https://www.youtube.com/watch?v=UjMDuplSdn8)
-
-
+### [Demo](https://www.youtube.com/watch?v=UjMDuplSdn8)
+https://github.com/user-attachments/assets/1a2d6319-930c-4cc1-9aaa-a7ed9819ca25
 
